@@ -14,7 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-background-image: linear-gradient(blue,green);
+
 }
 button{
     margin-left: 10px;
